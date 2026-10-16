@@ -1,0 +1,9 @@
+build/*
+!build/README.md
+runtime/**/*
+!runtime/**/
+!runtime/**/README.md
+__pycache__/
+*.pyc
+*.pyd
+.venv/

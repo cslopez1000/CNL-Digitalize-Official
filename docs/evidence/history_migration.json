@@ -1,0 +1,23 @@
+[
+  {
+    "source_project": "CST",
+    "source": "sqlite_viewer_qt.py",
+    "destination": "python/app/history/sqlite_viewer_qt.py",
+    "source_sha256": "1f86151a7852848ee92b8e73bfee4116defd0bdea83183955add8134a3e7492f",
+    "destination_sha256": "42f91136e3b135d73a772fc4ee4773e066e1e0eb9d7a3017048cc3e3b6bc4357"
+  },
+  {
+    "source_project": "CST",
+    "source": "sqlite_viewer_scaling.py",
+    "destination": "python/app/history/sqlite_viewer_scaling.py",
+    "source_sha256": "01c7c07b01e4609ad9e71a4264d90a74c564b4bca1fb4a46b2c18745d7d88e06",
+    "destination_sha256": "6a9ef262bebdafccd12ad0a0ccff8f6c3830d9ad165cf0d278f8f44458833fc2"
+  },
+  {
+    "source_project": "CST",
+    "source": "sqlite_viewer_report.py",
+    "destination": "python/app/history/sqlite_viewer_report.py",
+    "source_sha256": "2fbe395d56021e452b89839d298cee1b4a0e9aae27ddd64199a113fe0934a682",
+    "destination_sha256": "5745323e1759970076650d3120acdd184525e2d219081884d1c8658b5b06b232"
+  }
+]

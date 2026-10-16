@@ -1,0 +1,29 @@
+{
+  "home": {
+    "charts": 0,
+    "initialized": 0,
+    "errors": []
+  },
+  "vacuum": {
+    "charts": 2,
+    "initialized": 2,
+    "errors": [],
+    "embedded_histories": 2
+  },
+  "calibration": {
+    "charts": 1,
+    "initialized": 1,
+    "errors": []
+  },
+  "history": {
+    "charts": 3,
+    "initialized": 3,
+    "errors": []
+  },
+  "pdf": {
+    "pages": 2,
+    "bytes": 352299
+  },
+  "status": "passed",
+  "failures": []
+}

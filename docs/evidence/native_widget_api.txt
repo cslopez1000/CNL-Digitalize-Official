@@ -1,0 +1,1 @@
+PySide6 host constructor, CST coercion, clear and GL format passed; real window lifecycle not exercised

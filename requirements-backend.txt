@@ -1,0 +1,7 @@
+# Optional dependencies for subsequent backend migration, from RI's baseline.
+-r requirements.txt
+pyzmq==27.1.0
+numpy==2.5.1
+pandas==3.0.5
+scipy==1.18.0
+matplotlib==3.11.1

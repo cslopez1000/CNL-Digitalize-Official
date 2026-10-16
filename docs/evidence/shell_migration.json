@@ -1,0 +1,58 @@
+[
+  {
+    "source_project": "CST",
+    "source": "main_control_gui.py",
+    "destination": "python/app/shell/main_control_gui.py",
+    "source_sha256": "7389c6365de13ee7fdcc12f9546c30b8fed3d34ea03847f846004afd8e781cab",
+    "destination_sha256": "4e8376b149e78204a41f3837d83cced2ab8ee44112dad185dcfec315257e64b7"
+  },
+  {
+    "source_project": "CST",
+    "source": "SmallScreenMagneticBeam.py",
+    "destination": "python/app/controls/cst/SmallScreenMagneticBeam.py",
+    "source_sha256": "8beb9f72117a26e1d85711b1809fcb1ba7883dede2c9de301656e2bac19a7763",
+    "destination_sha256": "a7ff349cb3bc374a814d2191f07c76ad0f50282bdfd5a867a2c5a7f0021ae3e4"
+  },
+  {
+    "source_project": "CST",
+    "source": "SettingsDialog.py",
+    "destination": "python/app/configuration/SettingsDialog.py",
+    "source_sha256": "398cf9814360bc927eb7652b7a369035be267ee4549419c72680b68b8a402a4d",
+    "destination_sha256": "c20c86d09fc4ec6dab2d1149f440fb179c300679b88298a03107e7163dbf8330"
+  },
+  {
+    "source_project": "CST",
+    "source": "ScaleCalWindow.py",
+    "destination": "python/app/configuration/ScaleCalWindow.py",
+    "source_sha256": "e9e720faba3024822097e9af09b1481e8b88d86e7c0fa389a22aeb7fd0141758",
+    "destination_sha256": "4bd10b77eb7c171b85e5d623fd20d9aad5e9f69eb6cd62eefeeced28c58aa82f"
+  },
+  {
+    "source_project": "CST",
+    "source": "snapshot_save_qt.py",
+    "destination": "python/app/history/snapshot_save_qt.py",
+    "source_sha256": "144d69ab8640ad3bd18d28dc18cc17d8f3fb7f0234a1c464e3ed4a381c1333e4",
+    "destination_sha256": "a34dbe057aad077a2cf5b2b35c5cf1ee9805703a17071d99e27c8dd474b49423"
+  },
+  {
+    "source_project": "CST",
+    "source": "snapshot_recall_qt.py",
+    "destination": "python/app/history/snapshot_recall_qt.py",
+    "source_sha256": "8ac81ee8845d6fa4cd035e87e5e1687dd161f6f15774836f3c4271a61b8f8afb",
+    "destination_sha256": "91800ff4cec7ac1e74cfcc21fb0d4b2de2b70ed7fbd065a918e6b5757d471cea"
+  },
+  {
+    "source_project": "CST",
+    "source": "neon_style.py",
+    "destination": "python/app/theme/neon_style.py",
+    "source_sha256": "cc7e7a183f64be894e34c5898c3378bfd9cc14839462e83ca29b4bbf0d345838",
+    "destination_sha256": "62f2cf21fa360ae6361ab86b2456356666af626ebce27ac0480825e73c2447e6"
+  },
+  {
+    "source_project": "CST",
+    "source": "alarm.py",
+    "destination": "source/Python/Services/alarm.py",
+    "source_sha256": "271d6395345000306f0749abd9a5f6512fa2cc5732619706237c768f732b548e",
+    "destination_sha256": "271d6395345000306f0749abd9a5f6512fa2cc5732619706237c768f732b548e"
+  }
+]

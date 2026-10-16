@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "C:\Users\clasa\OneDrive\Desktop\RevampGUI\Control System Tune 10_15_NewVersion\test_pid_modules.py", line 251, in <module>
+    run_all_tests()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\clasa\OneDrive\Desktop\RevampGUI\Control System Tune 10_15_NewVersion\test_pid_modules.py", line 241, in run_all_tests
+    test_adaptive_direction_uses_absolute_error()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\clasa\OneDrive\Desktop\RevampGUI\Control System Tune 10_15_NewVersion\test_pid_modules.py", line 77, in test_adaptive_direction_uses_absolute_error
+    pid = _adaptive_controller(direction=1, check_interval=1.0)
+  File "C:\Users\clasa\OneDrive\Desktop\RevampGUI\Control System Tune 10_15_NewVersion\test_pid_modules.py", line 57, in _adaptive_controller
+    settings=AdaptiveDirectionSettings(
+             ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        deadband=deadband,
+        ^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        initial_direction=direction,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ),
+    ^
+TypeError: AdaptiveDirectionSettings.__init__() got an unexpected keyword argument 'trend_tolerance'

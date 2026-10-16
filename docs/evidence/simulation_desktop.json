@@ -1,0 +1,19 @@
+{
+  "manual": {
+    "visible_charts": 1,
+    "initialized_charts": 1,
+    "errors": []
+  },
+  "pid": {
+    "visible_charts": 4,
+    "initialized_charts": 4,
+    "errors": []
+  },
+  "beam": {
+    "visible_charts": 1,
+    "initialized_charts": 1,
+    "errors": []
+  },
+  "failures": [],
+  "status": "passed"
+}

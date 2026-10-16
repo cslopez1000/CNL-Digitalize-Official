@@ -1,0 +1,34 @@
+[
+  {
+    "source_project": "CST",
+    "source": "BeamTransportMonitoringWindow.py",
+    "source_sha256": "825f5b0379becc5b93e5466fa39e4a23bd9d4d4e1a7e7664cbb2c5c3129b044a",
+    "destination": "python/app/monitoring/BeamTransportMonitoringWindow.py",
+    "destination_sha256": "70fc1e701e121a4131c5031207c5ecb37faff68efa2208d34f68356dee842ff0",
+    "changes": "PySide6/package imports; absolute logo path; native C++ chart hosts. Original layout, buffering, scaling, units, readout/error and stale behavior retained."
+  },
+  {
+    "source_project": "CST",
+    "source": "MagneticFieldMonitoringWindow.py",
+    "source_sha256": "f1230df9f3331157c1392b11e2dad84992d573b1bed8be03f6a51a53d4228750",
+    "destination": "python/app/monitoring/MagneticFieldMonitoringWindow.py",
+    "destination_sha256": "367e462c6e63780b06a8cf352b1278bad552219cfc2ea65fcd563734bd8738f9",
+    "changes": "PySide6/package imports; absolute logo path; native C++ chart hosts. Original layout, buffering, scaling, units, readout/error and stale behavior retained."
+  },
+  {
+    "source_project": "CST",
+    "source": "SourceExtractionMonitoringWindow.py",
+    "source_sha256": "4812d4bd0f31a5bc9341739b28883bc73ba120358ceeb72c3454656dfa374767",
+    "destination": "python/app/monitoring/SourceExtractionMonitoringWindow.py",
+    "destination_sha256": "33901e042aaebeebbf8ec6b140aa8a0b1381cafc48ee8558eface9032e495ac5",
+    "changes": "PySide6/package imports; absolute logo path; native C++ chart hosts. Original layout, buffering, scaling, units, readout/error and stale behavior retained."
+  },
+  {
+    "source_project": "CST",
+    "source": "VacuumBeamMonitoringWindow.py",
+    "source_sha256": "f603d3082e656a6ee5999c6b49bfd9538fce0ba9cd3bfa71741b2c494a178fa2",
+    "destination": "python/app/monitoring/VacuumBeamMonitoringWindow.py",
+    "destination_sha256": "e7ba5c21e4c04d3b57e6a4d98a107fa4228d8082a8c74bf25f26f02f1c2321d8",
+    "changes": "PySide6/package imports; absolute logo path; native C++ chart hosts. Original layout, buffering, scaling, units, readout/error and stale behavior retained."
+  }
+]

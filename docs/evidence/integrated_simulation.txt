@@ -1,0 +1,16 @@
+test_armed_pid_changes_only_enabled_simulated_actuator (__main__.SimulationSystem.test_armed_pid_changes_only_enabled_simulated_actuator) ... ok
+test_cst_defaults_and_packet_scaling (__main__.SimulationSystem.test_cst_defaults_and_packet_scaling) ... ok
+test_direct_beam_input_preserves_numeric_identity (__main__.SimulationSystem.test_direct_beam_input_preserves_numeric_identity) ... ok
+test_live_database_reader_uses_independent_connection (__main__.SimulationSystem.test_live_database_reader_uses_independent_connection) ... ok
+test_manual_output_and_cst_rounding (__main__.SimulationSystem.test_manual_output_and_cst_rounding) ... ok
+test_missing_feedback_stops_pid (__main__.SimulationSystem.test_missing_feedback_stops_pid) ... ok
+test_native_multi_sequence_pause_and_handover (__main__.SimulationSystem.test_native_multi_sequence_pause_and_handover) ... ok
+test_native_sequence_runs_while_gui_is_stalled (__main__.SimulationSystem.test_native_sequence_runs_while_gui_is_stalled) ... ok
+test_preview_pid_uses_native_math_without_output (__main__.SimulationSystem.test_preview_pid_uses_native_math_without_output) ... ok
+test_range_readback_and_calibration (__main__.SimulationSystem.test_range_readback_and_calibration) ... ok
+test_shutdown_flushes_cst_schema (__main__.SimulationSystem.test_shutdown_flushes_cst_schema) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 8.776s
+
+OK

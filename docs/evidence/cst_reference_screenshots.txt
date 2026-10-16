@@ -1,0 +1,1 @@
+CST reference chart screenshots rendered; only Qt import spellings adapted in memory

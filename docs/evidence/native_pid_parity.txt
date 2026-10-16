@@ -1,0 +1,8 @@
+test_active_per_average_mode (__main__.NativePidParity.test_active_per_average_mode) ... ok
+test_legacy_window_mode (__main__.NativePidParity.test_legacy_window_mode) ... ok
+test_validation_and_seeded_reset (__main__.NativePidParity.test_validation_and_seeded_reset) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.054s
+
+OK

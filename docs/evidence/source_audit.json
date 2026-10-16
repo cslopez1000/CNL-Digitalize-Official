@@ -1,0 +1,924 @@
+{
+  "cst_root": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Control System Tune 10_15_NewVersion",
+  "ri_root": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI",
+  "cst_files": [
+    {
+      "project": "CST",
+      "path": "4 meters with time domian.py",
+      "sha256": "9e735921feaef71cbe4812245cfccf3d22ef09082b7a16f9ea80f5f0a31941f2"
+    },
+    {
+      "project": "CST",
+      "path": "4 meters.py",
+      "sha256": "26e7c5fb1dd5ce23d2ed8c701c6159bd385e7fa304595b4110248adfa080550b"
+    },
+    {
+      "project": "CST",
+      "path": "4 meters_done.py",
+      "sha256": "0967b7f6536e803962a638fca54621d9946cbef60ea520fe4dfd26fb9d3593c0"
+    },
+    {
+      "project": "CST",
+      "path": "alarm.py",
+      "sha256": "271d6395345000306f0749abd9a5f6512fa2cc5732619706237c768f732b548e"
+    },
+    {
+      "project": "CST",
+      "path": "alarm_config.json",
+      "sha256": "9bf98ae97affa141e0651882721c1b0f6b21128f6326df8568ae1404fa29b5dd",
+      "top_level_keys": [
+        "rf_bg",
+        "rf_dkv",
+        "rf_window_s",
+        "vac_bg",
+        "vac_channels",
+        "vac_factor",
+        "vac_window_s"
+      ]
+    },
+    {
+      "project": "CST",
+      "path": "AlarmSettingsDialog.py",
+      "sha256": "e177db57f0db1382965ecef9fcf0af01150294d0cb3780ef5581e5b92f297f18"
+    },
+    {
+      "project": "CST",
+      "path": "app_settings.json",
+      "sha256": "7a9774373befd98918de3b96971ec66f1a57f9a8f4b9d68e0f112d16655f8ed5",
+      "top_level_keys": [
+        "log_batch",
+        "log_cap_hz",
+        "log_flush_ms",
+        "plot_fps",
+        "plot_sps",
+        "plot_window_s",
+        "rf_deadband_kv",
+        "rf_gauge_max_kv",
+        "rf_smooth_tau_s",
+        "vac_max_exp",
+        "vac_min_exp",
+        "vac_smooth_tau_s",
+        "vac_tp_keys",
+        "vac_units"
+      ]
+    },
+    {
+      "project": "CST",
+      "path": "app_settings.py",
+      "sha256": "cba42bbb92c2bafa7fcf225a756826048a195c96d92baf0674e5b894c38f685d"
+    },
+    {
+      "project": "CST",
+      "path": "beam_cal.json",
+      "sha256": "b7900f9604ff17f7ad6587737c2e33d441e03bef453e0d7b8a86c6ca26c07c5d",
+      "top_level_keys": [
+        "deadband_display",
+        "digital_source",
+        "gauge_fullscale_override_uA",
+        "gauge_uses_range_fs",
+        "manual_index",
+        "ranges",
+        "select_mode",
+        "smooth_tau_s"
+      ]
+    },
+    {
+      "project": "CST",
+      "path": "beam_cal.py",
+      "sha256": "3501240031d576ba981d20920e2d53c609149786ddda9a8162e5cdfac7db9209"
+    },
+    {
+      "project": "CST",
+      "path": "beam_range.py",
+      "sha256": "964ba21c15cdd650ceea7d408bc7e075c282fc35d706f20188829198579cad44"
+    },
+    {
+      "project": "CST",
+      "path": "beam_trace.py",
+      "sha256": "eec55450b5d4525895fbd4e2cb5deeebd7cf4d639ac6473c697b870f08811233"
+    },
+    {
+      "project": "CST",
+      "path": "BeamTransportMonitoringWindow.py",
+      "sha256": "825f5b0379becc5b93e5466fa39e4a23bd9d4d4e1a7e7664cbb2c5c3129b044a"
+    },
+    {
+      "project": "CST",
+      "path": "BO/__init__.py",
+      "sha256": "577cdda7ce0e36122ac88cb2d9dc5e6bc6cf327cf937ef339de270b1dd208d00"
+    },
+    {
+      "project": "CST",
+      "path": "BO/bo_control_tab.py",
+      "sha256": "04bacf96de4c44e7b287e183df7d2df1ce4ee791770c104bff021520be974000"
+    },
+    {
+      "project": "CST",
+      "path": "BO/bo_pid_adapter.py",
+      "sha256": "17cb4991955093790e4ed755f54aab0add75d3f48190a50803b17d0f61a7d1bc"
+    },
+    {
+      "project": "CST",
+      "path": "BO/bo_trial_runner.py",
+      "sha256": "e94556209d454277eccef558eca39599155651b0311e45c77690f66a82e9795f"
+    },
+    {
+      "project": "CST",
+      "path": "BO/optimization/__init__.py",
+      "sha256": "e26f8c7999cd869b2b9c19615fa6c5216d18b9c3825741f21a4441341caa9c03"
+    },
+    {
+      "project": "CST",
+      "path": "BO/optimization/acquisition.py",
+      "sha256": "4fc75ad0a38b7e4169c59aaaf5b1f4a18f9f601a781a7f2a516abb031f446fc6"
+    },
+    {
+      "project": "CST",
+      "path": "BO/optimization/bayesian_optimizer.py",
+      "sha256": "745d51b856f19dca81f7393cd80018843d663c4b75fba60032c41b0a64dc11dc"
+    },
+    {
+      "project": "CST",
+      "path": "BO/optimization/observations.py",
+      "sha256": "5f2ff4094de29e70261cf96beeea9d5106b1288701d6453f5a6617d68f96e7f1"
+    },
+    {
+      "project": "CST",
+      "path": "BO/optimization/parameter_space.py",
+      "sha256": "8463813b00bfecd9e4d8e6036a88f2d26426b3769dee7c525198f6557c29caf3"
+    },
+    {
+      "project": "CST",
+      "path": "BO/optimization/surrogate_model.py",
+      "sha256": "670c83d9acc35221ca30e8182c4e0fc1119c8a34987eb79a7d83ef938e270e30"
+    },
+    {
+      "project": "CST",
+      "path": "BO/optimization/training.py",
+      "sha256": "7dd555af7b21c2aaf52125ca8b6745158d1da4d07d8eb1b9bdddfac68b536918"
+    },
+    {
+      "project": "CST",
+      "path": "BO/test_bo_integration.py",
+      "sha256": "40417336c9426ea36a5caccdf26cd2afe36aeeeaed10d04603d0b750f6f52f57"
+    },
+    {
+      "project": "CST",
+      "path": "calibration.json",
+      "sha256": "ce8ae8120d25a33e4543507192e23bb1f1802dd1167b7f8ae76b91c117a233dc",
+      "top_level_keys": [
+        "arc_a",
+        "arc_v",
+        "beam_current",
+        "centering_beam",
+        "ch1",
+        "ch10",
+        "ch11",
+        "ch12",
+        "ch2",
+        "ch3",
+        "ch4",
+        "ch5",
+        "ch6",
+        "ch7",
+        "ch8",
+        "ch9",
+        "coax_a",
+        "coax_in_angle",
+        "coax_out_angle",
+        "coll_s1_l_a",
+        "coll_s1_r_a",
+        "coll_s2_l_a",
+        "coll_s2_r_a",
+        "esd_a",
+        "esd_in_angle",
+        "esd_out_angle",
+        "esd_v",
+        "filament_a",
+        "filament_v",
+        "fringe_a",
+        "gas_flow",
+        "gas_turns",
+        "inside_iron_a",
+        "iron_in_angle",
+        "iron_out_angle",
+        "main_magnet",
+        "outside_iron_a",
+        "q1a_a",
+        "q1b_a",
+        "q2a_a",
+        "q2b_a",
+        "rf_power_kv",
+        "steer40_a",
+        "steer50_a",
+        "vac1",
+        "vac2",
+        "vac3",
+        "vac4",
+        "vac5"
+      ]
+    },
+    {
+      "project": "CST",
+      "path": "CHECK_INSTALLATION.py",
+      "sha256": "0e4b5a611c9b76d6b3b58ad502c21b20b8a33633ec1015a227001d7925422c14"
+    },
+    {
+      "project": "CST",
+      "path": "controller_context.py",
+      "sha256": "9e91f55adc266bae23d9d3adfd26734aa420ece4596e31d97888e1159e40a2c0"
+    },
+    {
+      "project": "CST",
+      "path": "controller_theme.py",
+      "sha256": "55bfe6d0c97282476fa15066c7d6042440c1181612a0e988a0820e9562187800"
+    },
+    {
+      "project": "CST",
+      "path": "ga_pid_tuner.py",
+      "sha256": "a4f38b489270d7e828a9a4b8d70bb968d808e42abfdab52dafcbaa5afa7fa316"
+    },
+    {
+      "project": "CST",
+      "path": "ga_recovery_manager.py",
+      "sha256": "01e00b781bb65843c3c95041ca8eea7af63c2fc934a6b67c9945f99dd83fa864"
+    },
+    {
+      "project": "CST",
+      "path": "ga_test_runner.py",
+      "sha256": "2450ecb8f15f862a7d860979b9ba7303df0dec6bc87fec4e1a2e5d3bc999d96b"
+    },
+    {
+      "project": "CST",
+      "path": "gui_window.py",
+      "sha256": "53a2cd21bed1c9b8b26775434befbfaa63db9ab338a344f4faa167a6d5bf5a5e"
+    },
+    {
+      "project": "CST",
+      "path": "MagneticFieldControllerWindow.py",
+      "sha256": "0fd0520c4faeb50942438ccf5032368be7ab120b4a766f45e65032e8cfb0b42d"
+    },
+    {
+      "project": "CST",
+      "path": "MagneticFieldMonitoringWindow.py",
+      "sha256": "f1230df9f3331157c1392b11e2dad84992d573b1bed8be03f6a51a53d4228750"
+    },
+    {
+      "project": "CST",
+      "path": "main.py",
+      "sha256": "e541726ccf5e684cf94f168442ab913e25a9aa3ad79f9b8ac7fabbdb2d7f6c58"
+    },
+    {
+      "project": "CST",
+      "path": "main1.py",
+      "sha256": "e541726ccf5e684cf94f168442ab913e25a9aa3ad79f9b8ac7fabbdb2d7f6c58"
+    },
+    {
+      "project": "CST",
+      "path": "main_control_gui.py",
+      "sha256": "7389c6365de13ee7fdcc12f9546c30b8fed3d34ea03847f846004afd8e781cab"
+    },
+    {
+      "project": "CST",
+      "path": "main_control_gui1.py",
+      "sha256": "375d3d4c0725aaed7d304792ea0c6c461118993b5a9d4117aaa627b11288d65f"
+    },
+    {
+      "project": "CST",
+      "path": "manual_control_tab.py",
+      "sha256": "d83f093978c0c8f93fd9f896bde5a76f74f4d561da071ba1971c7de38102f817"
+    },
+    {
+      "project": "CST",
+      "path": "multi_tc_sequence_tab.py",
+      "sha256": "386d387518f662417216207b12111bf6387a65818114cf966bdf23088d126e85"
+    },
+    {
+      "project": "CST",
+      "path": "neon_style.py",
+      "sha256": "cc7e7a183f64be894e34c5898c3378bfd9cc14839462e83ca29b4bbf0d345838"
+    },
+    {
+      "project": "CST",
+      "path": "new meter_10_6_2025.py",
+      "sha256": "729537882594f6ede962c519c1cc35d751702c1003189a6f9c5966c98449e630"
+    },
+    {
+      "project": "CST",
+      "path": "pid_axis_trend_plot.py",
+      "sha256": "a2d05f456a3232b945a432dc2260e9f158cc67299ab235e883f4a0d2ad0e2563"
+    },
+    {
+      "project": "CST",
+      "path": "pid_beam_buffer.py",
+      "sha256": "7cd3499628510cc4517904c555b89d97fcf9a26b35e9c8b68b9195ffe4ba5981"
+    },
+    {
+      "project": "CST",
+      "path": "pid_controller.py",
+      "sha256": "5346c20f3a6e69511a150e3de03a0a789e182cbe52ecaf0b706ed6be8e9ad901"
+    },
+    {
+      "project": "CST",
+      "path": "pid_decision_log.py",
+      "sha256": "3dccf55f28a2aebd12921a0e9c90d3e62508cec8e77ce3ba6f7d675e22c773c5"
+    },
+    {
+      "project": "CST",
+      "path": "pid_ga_control_tab.py",
+      "sha256": "c14e363ba10af2336c4d2666cea60b58de0bad306787241523e9b7f5aec4cea3"
+    },
+    {
+      "project": "CST",
+      "path": "pid_sqlite_logger.py",
+      "sha256": "3dcb6fa4b7397a0d619d705b3a7797dc7383ecc822803241627af137c1e55204"
+    },
+    {
+      "project": "CST",
+      "path": "remove_ga_25_percent_patch.py",
+      "sha256": "019b911ee3f42419b19373c2b048cfe5a87179b6507dc869a1a8e724e4e63860"
+    },
+    {
+      "project": "CST",
+      "path": "scale_cal_editor.py",
+      "sha256": "ca4839fe116969cc31ae10a34666a8d3abda88e6d39fe06848c6e62e2e9a619e"
+    },
+    {
+      "project": "CST",
+      "path": "ScaleCalWindow.py",
+      "sha256": "e9e720faba3024822097e9af09b1481e8b88d86e7c0fa389a22aeb7fd0141758"
+    },
+    {
+      "project": "CST",
+      "path": "scaling.py",
+      "sha256": "6f5c2aae8d6b6c87cc19670f07095e37b0ec82ee1bb1c6ef78b57cabcdf0517a"
+    },
+    {
+      "project": "CST",
+      "path": "sequence_control_tab.py",
+      "sha256": "44d1ca2c369c7a00271e1cc343d2560c58d7757551f75a0991b90b1b0cba5278"
+    },
+    {
+      "project": "CST",
+      "path": "SettingsDialog.py",
+      "sha256": "398cf9814360bc927eb7652b7a369035be267ee4549419c72680b68b8a402a4d"
+    },
+    {
+      "project": "CST",
+      "path": "SmallScreenMagneticBeam.py",
+      "sha256": "8beb9f72117a26e1d85711b1809fcb1ba7883dede2c9de301656e2bac19a7763"
+    },
+    {
+      "project": "CST",
+      "path": "snapshot_recall_qt.py",
+      "sha256": "8ac81ee8845d6fa4cd035e87e5e1687dd161f6f15774836f3c4271a61b8f8afb"
+    },
+    {
+      "project": "CST",
+      "path": "snapshot_save_qt.py",
+      "sha256": "144d69ab8640ad3bd18d28dc18cc17d8f3fb7f0234a1c464e3ed4a381c1333e4"
+    },
+    {
+      "project": "CST",
+      "path": "SourceExtractionMonitoringWindow.py",
+      "sha256": "4812d4bd0f31a5bc9341739b28883bc73ba120358ceeb72c3454656dfa374767"
+    },
+    {
+      "project": "CST",
+      "path": "SourceExtractionMonitoringWindow_working.py",
+      "sha256": "d4b0e9aa3e95d2ecd5d0c74c21f3efd96ca400b43e61d0000856f1e8769f7966"
+    },
+    {
+      "project": "CST",
+      "path": "SpinWheelCalWindow.py",
+      "sha256": "df8e4bea339129eaabc1350170b90ffa4aef1c7cf38108a4cf2f93f5528a8006"
+    },
+    {
+      "project": "CST",
+      "path": "sqlite_logger.py",
+      "sha256": "c895c2f954c6017af88df5e9a06e08293db7935e8843f1830b81301cefba337b"
+    },
+    {
+      "project": "CST",
+      "path": "sqlite_viewer_qt.py",
+      "sha256": "1f86151a7852848ee92b8e73bfee4116defd0bdea83183955add8134a3e7492f"
+    },
+    {
+      "project": "CST",
+      "path": "sqlite_viewer_report.py",
+      "sha256": "2fbe395d56021e452b89839d298cee1b4a0e9aae27ddd64199a113fe0934a682"
+    },
+    {
+      "project": "CST",
+      "path": "sqlite_viewer_scaling.py",
+      "sha256": "01c7c07b01e4609ad9e71a4264d90a74c564b4bca1fb4a46b2c18745d7d88e06"
+    },
+    {
+      "project": "CST",
+      "path": "test_pid_modules.py",
+      "sha256": "e4d55175ee089f359f36fd318afc26910e071275764291a4766cb27567d3fec4"
+    },
+    {
+      "project": "CST",
+      "path": "untitled12.py",
+      "sha256": "4dc0b75daf939e7009b89b9f91c51f0ac1b221599ffd9612c416b9f8274a33b0"
+    },
+    {
+      "project": "CST",
+      "path": "VacuumBeamMonitoringWindow.py",
+      "sha256": "f603d3082e656a6ee5999c6b49bfd9538fce0ba9cd3bfa71741b2c494a178fa2"
+    },
+    {
+      "project": "CST",
+      "path": "VacuumBeamMonitoringWindow1.py",
+      "sha256": "25cb909ddd7623eb2a4890ba68f745dd1a67a5b6ef4633097fe741accd976b5a"
+    },
+    {
+      "project": "CST",
+      "path": "VacuumBeamMonitoringWindow3.py",
+      "sha256": "ff8ccc0e5b555fc695da6e9598c8009d0c9ddbb64f860e96bc8340ff151ecd69"
+    },
+    {
+      "project": "CST",
+      "path": "VacuumBeamMonitoringWindow_working.py",
+      "sha256": "c785a99d73a0af5fb5d0ce2770851f8d183f8e9f3619986e1d85687c3ec89de4"
+    },
+    {
+      "project": "CST",
+      "path": "VacuumBeamMonitoringWindowO.py",
+      "sha256": "3282f30bb90a62efbd744cb546a895bcf9bef51b2e2528fa287b54495594291e"
+    },
+    {
+      "project": "CST",
+      "path": "web-app.py",
+      "sha256": "bb8f90a8a81e79260f3621b23d2a984c23cdde475c1ecdddcdd8d09d9e70117a"
+    },
+    {
+      "project": "CST",
+      "path": "web_app.py",
+      "sha256": "bb8f90a8a81e79260f3621b23d2a984c23cdde475c1ecdddcdd8d09d9e70117a"
+    },
+    {
+      "project": "CST",
+      "path": "zmq_field_controller_sender.py",
+      "sha256": "d53d2697099118b01d76de745d36f99efb17e57c3d12e710b1596fabdecce5b6"
+    },
+    {
+      "project": "CST",
+      "path": "zmq_labview_simulator.py",
+      "sha256": "5e7621a58aa24179d6fcd5d385114182aa0f905e88cbf89fb74d4d2524ab5128"
+    },
+    {
+      "project": "CST",
+      "path": "zmq_rep_server.py",
+      "sha256": "2f9515923e9b24c8c873a65d7949b83014247fc28b6538729bae6157a3a1fa92"
+    }
+  ],
+  "graphics_provenance": [
+    {
+      "destination": "assets/engine/fonts/AlphaCyberpunkDemoRegular-JpKPo.otf",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\assets\\fonts\\AlphaCyberpunkDemoRegular-JpKPo.otf",
+      "sha256": "a6d69008afccde9892124cf1dbc941be7f7acd0ce4e88d3340371ed5bebe42b4",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "assets/engine/fonts/FuturisticArmour-1p84.ttf",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\assets\\fonts\\FuturisticArmour-1p84.ttf",
+      "sha256": "1d93c8020c88671bfa197de918e3d0bd92a185466d3dc2bd39b781a1872f3288",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "assets/engine/shaders/primitive2d.frag",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\assets\\shaders\\primitive2d.frag",
+      "sha256": "d05f80ea3b849ef3189fe1287bb2c8d5db7782c325546bedfa56053185e08fc0",
+      "modified_from_ri": true
+    },
+    {
+      "destination": "assets/engine/shaders/primitive2d.vert",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\assets\\shaders\\primitive2d.vert",
+      "sha256": "15b7c90dd1d4936172b9e77b8120017493d0278cf0f61d04642b03adc50f088d",
+      "modified_from_ri": true
+    },
+    {
+      "destination": "assets/engine/shaders/text.frag",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\assets\\shaders\\text.frag",
+      "sha256": "dfe8c15d4de9c5fe70af48cbedd01fccab677227c69ead807e60c09939b6aa16",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "assets/engine/shaders/text.vert",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\assets\\shaders\\text.vert",
+      "sha256": "27bd09ed6a49a76d2ea743c24d901cda514af4c04d7b8da09754ab01e4540487",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Core/Color.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Core\\Color.hpp",
+      "sha256": "1df16d6cf0bed7d2db4c420df8df3f71989370ac6fd9d3347039bc6ca32d8c1e",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Core/Rect.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Core\\Rect.hpp",
+      "sha256": "e2f81c8a043d6f633a62877e2e38dc5e5dc6ff8261ff3f82d841d4be422d5da5",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Core/Viewport.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Core\\Viewport.hpp",
+      "sha256": "475e7a8d2902727bbc4f00ac30410d8cf54bcbde303d17695809be1e6df87ad6",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Graphics/Canvas2D.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Graphics\\Canvas2D.hpp",
+      "sha256": "f42533848d55aae4a80a7272aaef30be899eaedc00bdc797c33bca7c0117de4b",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Graphics/DrawList.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Graphics\\DrawList.hpp",
+      "sha256": "2f0f844c11f573bda81d653610c3a9dce92cfd3af9605240b329fde5dc6e8f1e",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Graphics/RenderContext.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Graphics\\RenderContext.hpp",
+      "sha256": "3bcb151e87de268576b89f2d260228d90e7dff1ae7aefb03621371d3893b819f",
+      "modified_from_ri": true
+    },
+    {
+      "destination": "include/Engine/Text/FontId.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Text\\FontId.hpp",
+      "sha256": "307efbdf2a7d0d2fdd3ba3ed89e444f0859944a001e1bb655ca5d0725aace723",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Text/FontManager.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Text\\FontManager.hpp",
+      "sha256": "ec04f3da2d876264547ad3d8bded644ab2c65354bf23b5ae27a677fcaeee6551",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Text/TextLayout.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Text\\TextLayout.hpp",
+      "sha256": "1dbaa89afd8a4f74b36eed5876aed0f5322ee42ac512b9e6345bab0df39a0a77",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Text/TextRenderer.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Text\\TextRenderer.hpp",
+      "sha256": "f086cee92e996d69181aa78dcefeb9e7e23c673838e5524b577f38f85e9573c0",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Text/TextStyle.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Text\\TextStyle.hpp",
+      "sha256": "74889bfabf24ca6048489745cd52c3c44c8d45c84d1ea8bb131b895d92f16c33",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/AlarmTimelineChart.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\AlarmTimelineChart.hpp",
+      "sha256": "309cd963756eb2a334d4bc5cbdb26ca0f691213382b6bc4cd45611dd7536e023",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/AxisLayout.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\AxisLayout.hpp",
+      "sha256": "1ee3b5f0abcb3b9cbf2c25157903ca0248acfafe2cb5e435be69b57871c5720a",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/BarChart.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\BarChart.hpp",
+      "sha256": "c44ef2de88b8d1f88f04c1782e105a3b41de9aea6a72cf8217ac8fdf7c665bfd",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/BulletChart.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\BulletChart.hpp",
+      "sha256": "15d42efc5e4c724839ab684850bc760865ae4c7a859f571ed830a44df71f28f2",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/Chart.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\Chart.hpp",
+      "sha256": "4a3309ce70e0b719e60889dbd2df25ce2b59bfb881e5cc7fe238e70fd37dfdea",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/ChartRect.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\ChartRect.hpp",
+      "sha256": "9b15c5593c0bdceea27c8fe06ea6e8e632dc489802fc77daab8a1b3b3e75f8cf",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/ChartStroke.hpp",
+      "source": "NEW: CST-derived implementation",
+      "sha256": "de54cbf8ce4e0dd352a69f7c23f4298acb71150e24ac3f49f4c7788f6534e05e",
+      "modified_from_ri": null
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/ChartStyle.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\ChartStyle.hpp",
+      "sha256": "89e4ca076cf25719b543b1bd5cec4a7933af60944a195a9f6ff7345364016ab8",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/CstTrendModel.hpp",
+      "source": "NEW: CST-derived implementation",
+      "sha256": "d78d81f90dc3942389d1def5d98eed72d746078e932b3336b54734db9e59c748",
+      "modified_from_ri": null
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/CstTrendPlot.hpp",
+      "source": "NEW: CST-derived implementation",
+      "sha256": "a8347f3fb4ed860e7999596c0aadd087095fe85973b62658b691a71d623f8888",
+      "modified_from_ri": null
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/HeatmapChart.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\HeatmapChart.hpp",
+      "sha256": "09ce252fe3e4feced0c8af54ec9a05b839cb217bb23291c5b5e49a38c55f1c4e",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/HistogramChart.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\HistogramChart.hpp",
+      "sha256": "df37f90610fd59ed2968dacae0fb3bbc7b89665b1cb8852c5b44344dc671bdd9",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/LegendLayout.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\LegendLayout.hpp",
+      "sha256": "cd989b980ee3e983f7da824a6a158e9337e67bfe17ac15d9d6de6fca3ccd2a53",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/LineChart.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\LineChart.hpp",
+      "sha256": "e5dc63e8557ac81dc72a46428c0071a56d5d71b64b352427a4ba7efb66abe417",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/PhaseSpacePlot.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\PhaseSpacePlot.hpp",
+      "sha256": "b431c29803fd8b14e2d44a1cde53cd0fcd738269e25c648eaab0eae7e78d585a",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/PIDChart.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\PIDChart.hpp",
+      "sha256": "568274566a7baff5d8bf0390a0807d1d70c6c42a3239a1e47a706683f99b698f",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/ScatterPlot.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\ScatterPlot.hpp",
+      "sha256": "b2f7e8d451872b29a497640c4e2c8330ea0a7cb5e05e3672cc20c1cdc4548256",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/SpectrumChart.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\SpectrumChart.hpp",
+      "sha256": "d0be5d14f66be3250366421601517289b1c86aeee380d7800d921a6dca0adebb",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/StarPlot.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\StarPlot.hpp",
+      "sha256": "9b5954417f37cd82090bdf594acb93ca2232d84567c42a999dca28620d04e2f9",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/TickFormatter.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\TickFormatter.hpp",
+      "sha256": "0407fbdb15acde2e6f6ba920ac84e82cd735e4e0a5f3375830d6a01ef1bf6400",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Charts/TimeSeriesChart.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Charts\\TimeSeriesChart.hpp",
+      "sha256": "ea9dabecab470ae5a3a6f62338db67fbf6d019dbc7b81f7331257568bc675a09",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Data/DataTable.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Data\\DataTable.hpp",
+      "sha256": "471b350df61a9562fb8fab8c75083ca55bba976687f829625a3b8d2cc6efe9ab",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Gauges/GaugeStyle.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Gauges\\GaugeStyle.hpp",
+      "sha256": "c7dadb04ec20349b6b761e95dae343a36086a904cb1562f0361a18d4ce19bd11",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Gauges/MagneticFieldSpeedometer.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Gauges\\MagneticFieldSpeedometer.hpp",
+      "sha256": "c6126f2ce3a544ec3a6c19ffecce95c65facbe26c8a26a41f36770faf45fe798",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "include/Engine/Visualization/Plots/FieldPlots.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\include\\Engine\\Visualization\\Plots\\FieldPlots.hpp",
+      "sha256": "cd58cfac44349c65d1245e7bc59853202edd30083e89d647b303ecdc70e455fa",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Graphics/Canvas2D.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Graphics\\Canvas2D.cpp",
+      "sha256": "180d6fd2b709baf058819f49894e87957cbc64bcba080e9f95d19946337530bd",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Graphics/OpenGL/Objects.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Graphics\\OpenGL\\Objects.hpp",
+      "sha256": "bc31cc24b8789f0d63d2fb170f789c7d9e3a63b20c027d8fb2927b408bf8ccb4",
+      "modified_from_ri": true
+    },
+    {
+      "destination": "source/Engine/Graphics/OpenGL/ShaderProgram.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Graphics\\OpenGL\\ShaderProgram.cpp",
+      "sha256": "08d34d3684734c6d86c020fc4a869813a417ac4adf53d849f6e06128ec9c5157",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Graphics/OpenGL/ShaderProgram.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Graphics\\OpenGL\\ShaderProgram.hpp",
+      "sha256": "e79b8fc82c1adb80aa6da3937611fe6718a099490418cdcd5d4b7ae06bf04225",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Graphics/OpenGL/StateGuard.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Graphics\\OpenGL\\StateGuard.cpp",
+      "sha256": "70ba48a53e844c7ec5173afe43971b661ed05d181ce87df8f039d06aa0b6bfe3",
+      "modified_from_ri": true
+    },
+    {
+      "destination": "source/Engine/Graphics/OpenGL/StateGuard.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Graphics\\OpenGL\\StateGuard.hpp",
+      "sha256": "2d84a269a3b31651c37f4c8df5ea23f997c11dacd2345d8e34bab1686f5135b9",
+      "modified_from_ri": true
+    },
+    {
+      "destination": "source/Engine/Graphics/RenderContext.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Graphics\\RenderContext.cpp",
+      "sha256": "8362ec05d04a10203f8b8f397db088530f71ee08649ffce371de1d2941095b4c",
+      "modified_from_ri": true
+    },
+    {
+      "destination": "source/Engine/Text/FontManager.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Text\\FontManager.cpp",
+      "sha256": "5d5b39d36c855a8a8084b372b13754c7ecf3080b7a2a10dc65f02024da51a0f1",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Text/Internal/FontRasterizer.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Text\\Internal\\FontRasterizer.cpp",
+      "sha256": "54e1c754704592d0a9e41877f7616607f2ce934a7b47735cd353f3b71e61631f",
+      "modified_from_ri": true
+    },
+    {
+      "destination": "source/Engine/Text/Internal/FontRasterizer.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Text\\Internal\\FontRasterizer.hpp",
+      "sha256": "cc85df19c3d0bb660ada9ada72c65d239b9bc045f32c3d7745dcba10f56def9a",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Text/Internal/GlyphAtlas.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Text\\Internal\\GlyphAtlas.cpp",
+      "sha256": "170368d375b05d36d2dbd8c15d0f144ade04f5b5186facdda15f6d48b1925146",
+      "modified_from_ri": true
+    },
+    {
+      "destination": "source/Engine/Text/Internal/GlyphAtlas.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Text\\Internal\\GlyphAtlas.hpp",
+      "sha256": "a1f01ec38339a4c5b3df2bdcb0db9adbe90e959be59fa79c4b6f68a1101b4ad8",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Text/TextLayout.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Text\\TextLayout.cpp",
+      "sha256": "2a44ae8625a1937c81d6ea047aa916cec4fa774b756fc399e9edc461cd0ddc2b",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Text/TextRenderer.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Text\\TextRenderer.cpp",
+      "sha256": "fa5265e86c016ca42ec2e0e20c0b8feed3c911f3578f851445dee04a9370b28f",
+      "modified_from_ri": true
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/AlarmTimelineChart.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Charts\\AlarmTimelineChart.cpp",
+      "sha256": "93b80792bf6142b8f8719725f2781c09d80176bc32c8371d20d46f09e9939725",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/BarChart.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Charts\\BarChart.cpp",
+      "sha256": "7c25cd7f783f759354772abe24d8e814d291931768507642301b1cd4234f28e4",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/BulletChart.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Charts\\BulletChart.cpp",
+      "sha256": "d3b1a79ad8f46d31ce1c492eba4bff35f29d820ee741cad11a995c60913ac9a3",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/ChartGeometry.hpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Charts\\ChartGeometry.hpp",
+      "sha256": "428f1ebbf42f737ec0f76a32f12c68d49e55aa616a505560eb27d8f8a58ed923",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/CstHistoryPlot.cpp",
+      "source": "NEW: CST-derived implementation",
+      "sha256": "a5cbe562e28106c01b02988d29e676c3afcfbaf72f4bd45a699f284230e803c3",
+      "modified_from_ri": null
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/CstTrendModel.cpp",
+      "source": "NEW: CST-derived implementation",
+      "sha256": "d74b2ef6f587484a676c28388ec4f6a0170359b7dc7a11c3df2360fa6843c8e6",
+      "modified_from_ri": null
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/CstTrendPlot.cpp",
+      "source": "NEW: CST-derived implementation",
+      "sha256": "b0585d7175793b1e9cc8b03ed59ca5f4abd1df470c8bf7cad79314d4f41e83da",
+      "modified_from_ri": null
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/CstVacuumPlot.cpp",
+      "source": "NEW: CST-derived implementation",
+      "sha256": "7982865d05952a06b94ad9ac11ce4607df29dc7fbdacadc6ada749770dc0f456",
+      "modified_from_ri": null
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/HeatmapChart.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Charts\\HeatmapChart.cpp",
+      "sha256": "56327e98e80b521c30088384e559242aaa7cd988874f9c674406cba332effd42",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/HistogramChart.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Charts\\HistogramChart.cpp",
+      "sha256": "0c0e5714af5fc7a683f62a3800a2ad69425c1d4abf45bd96e0e6ad45cd6ee30c",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/LineChart.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Charts\\LineChart.cpp",
+      "sha256": "553a9aee0b299093cae61108fa88ebcfdc0fa8b7c3907be3b9f923c220a1e5e3",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/ScatterPlot.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Charts\\ScatterPlot.cpp",
+      "sha256": "fdf1d8f71576925834779ebbc883abd15de8610b76f44c6feea2386b697f854e",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/SpectrumChart.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Charts\\SpectrumChart.cpp",
+      "sha256": "fe49f1cf5c94c44ee00ff04a592b22b5dea3612689cab6eda33764e764129d1b",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/StarPlot.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Charts\\StarPlot.cpp",
+      "sha256": "77637fe82282ee4ff4a47f42e5d265470eea3434549b426d724f6aefc8f3c265",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/TickFormatter.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Charts\\TickFormatter.cpp",
+      "sha256": "9c8e9b5a833574f6971914043d503500661da9262b266eea566e802e5d40b6a0",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Visualization/Charts/TimeSeriesChart.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Charts\\TimeSeriesChart.cpp",
+      "sha256": "a944a0cbc0b11195c9563ef25f29cba97d329610aae2304c26c9645d36d2fbc3",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Visualization/Gauges/MagneticFieldSpeedometer.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Gauges\\MagneticFieldSpeedometer.cpp",
+      "sha256": "5abec178767615bab3f3d2d3c8b23843c138705342a65768ed149c74e9eafe6b",
+      "modified_from_ri": false
+    },
+    {
+      "destination": "source/Engine/Visualization/Plots/FieldPlots.cpp",
+      "source": "RecurseIntall\\Crocker-Digitlization-GUI\\CrockerGUI\\source\\Engine\\Visualization\\Plots\\FieldPlots.cpp",
+      "sha256": "75ac25759fe5633ebcd3b64bd8393c1b1586345868c0bded72129d3fa2e6c248",
+      "modified_from_ri": false
+    }
+  ],
+  "scope": "Static file inventory and hashes; not full behavior or configuration parity"
+}

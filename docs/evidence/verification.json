@@ -1,0 +1,175 @@
+{
+  "recorded_at_utc": "2026-10-16T22:20:56.763791+00:00",
+  "checks": [
+    {
+      "name": "native_cpu_and_mock_gl",
+      "command": [
+        "ctest",
+        "--test-dir",
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\build\\windows",
+        "-C",
+        "Release",
+        "--output-on-failure"
+      ],
+      "cwd": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination",
+      "exit_code": 0,
+      "status": "passed",
+      "log": "native_cpu_and_mock_gl.txt"
+    },
+    {
+      "name": "cst_cpp_numeric_parity",
+      "command": [
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\.venv\\Scripts\\python.exe",
+        "-B",
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\tests\\python\\test_cst_trend_parity.py"
+      ],
+      "cwd": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination",
+      "exit_code": 0,
+      "status": "passed",
+      "log": "cst_cpp_numeric_parity.txt"
+    },
+    {
+      "name": "native_pid_parity",
+      "command": [
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\.venv\\Scripts\\python.exe",
+        "-B",
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\tests\\python\\test_native_pid_parity.py"
+      ],
+      "cwd": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination",
+      "exit_code": 0,
+      "status": "passed",
+      "log": "native_pid_parity.txt"
+    },
+    {
+      "name": "integrated_simulation",
+      "command": [
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\.venv\\Scripts\\python.exe",
+        "-B",
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\tests\\integration\\test_simulation_system.py"
+      ],
+      "cwd": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination",
+      "exit_code": 0,
+      "status": "passed",
+      "log": "integrated_simulation.txt"
+    },
+    {
+      "name": "monitoring_integration",
+      "command": [
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\.venv\\Scripts\\python.exe",
+        "-B",
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\tests\\integration\\test_monitoring.py"
+      ],
+      "cwd": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination",
+      "exit_code": 0,
+      "status": "passed",
+      "log": "monitoring_integration.txt"
+    },
+    {
+      "name": "shell_history_integration",
+      "command": [
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\.venv\\Scripts\\python.exe",
+        "-B",
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\tests\\integration\\test_shell_history.py"
+      ],
+      "cwd": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination",
+      "exit_code": 0,
+      "status": "passed",
+      "log": "shell_history_integration.txt"
+    },
+    {
+      "name": "migrated_bo_suite",
+      "command": [
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\.venv\\Scripts\\python.exe",
+        "-B",
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\tests\\python\\test_migrated_bo.py"
+      ],
+      "cwd": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination",
+      "exit_code": 0,
+      "status": "passed",
+      "log": "migrated_bo_suite.txt"
+    },
+    {
+      "name": "native_offscreen_gl",
+      "command": [
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\.venv\\Scripts\\python.exe",
+        "-B",
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\tests\\integration\\test_native_render.py"
+      ],
+      "cwd": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination",
+      "exit_code": 0,
+      "status": "passed",
+      "log": "native_offscreen_gl.txt"
+    },
+    {
+      "name": "native_widget_api",
+      "command": [
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\.venv\\Scripts\\python.exe",
+        "-B",
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\tests\\integration\\test_widget_api.py"
+      ],
+      "cwd": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination",
+      "exit_code": 0,
+      "status": "passed",
+      "log": "native_widget_api.txt"
+    },
+    {
+      "name": "cst_reference_screenshots",
+      "command": [
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\.venv\\Scripts\\python.exe",
+        "-B",
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\tests\\integration\\render_cst_reference.py"
+      ],
+      "cwd": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination",
+      "exit_code": 0,
+      "status": "passed",
+      "log": "cst_reference_screenshots.txt"
+    },
+    {
+      "name": "cst_bo_reference_suite",
+      "command": [
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\.venv\\Scripts\\python.exe",
+        "-B",
+        "-m",
+        "unittest",
+        "BO.test_bo_integration"
+      ],
+      "cwd": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Control System Tune 10_15_NewVersion",
+      "exit_code": 0,
+      "status": "passed",
+      "log": "cst_bo_reference_suite.txt"
+    },
+    {
+      "name": "cst_pid_reference_suite",
+      "command": [
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\.venv\\Scripts\\python.exe",
+        "-B",
+        "test_pid_modules.py"
+      ],
+      "cwd": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Control System Tune 10_15_NewVersion",
+      "exit_code": 1,
+      "status": "failed",
+      "log": "cst_pid_reference_suite.txt"
+    },
+    {
+      "name": "folder_readmes",
+      "command": [
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\.venv\\Scripts\\python.exe",
+        "-B",
+        "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination\\scripts\\create_structure.py"
+      ],
+      "cwd": "C:\\Users\\clasa\\OneDrive\\Desktop\\RevampGUI\\Combination",
+      "exit_code": 0,
+      "status": "passed",
+      "log": "folder_readmes.txt"
+    }
+  ],
+  "passed": 12,
+  "failed": 1,
+  "limitations": [
+    "Launcher, controller, monitoring/history/configuration and snapshot screens are integrated in simulation; hardware, operational alarm workflow and CUDA remain pending",
+    "CST PID reference tests are incompatible with current CST controller settings",
+    "CST screenshot reference uses Qt import spelling adaptation to PySide6 in memory",
+    "Full automatic GA/BO runs and Ubuntu runtime remain unverified",
+    "Axes, PDF layout and cross-DPI visual parity remain unverified; CST range/coil bitmask overlap is unresolved"
+  ]
+}

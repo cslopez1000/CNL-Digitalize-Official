@@ -1,0 +1,10 @@
+test_active_ga_missing_winner_trace (__main__.TrendParity.test_active_ga_missing_winner_trace) ... ok
+test_constant_and_small_values (__main__.TrendParity.test_constant_and_small_values) ... ok
+test_decimation_and_epoch_precision (__main__.TrendParity.test_decimation_and_epoch_precision) ... ok
+test_empty_single_invalid_and_ranges (__main__.TrendParity.test_empty_single_invalid_and_ranges) ... ok
+test_generated_traces (__main__.TrendParity.test_generated_traces) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.025s
+
+OK

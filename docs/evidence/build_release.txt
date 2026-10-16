@@ -1,0 +1,61 @@
+MSBuild version 17.11.9+a69bbaaf5 for .NET Framework
+
+  Checking File Globs
+  1>Checking Build System
+  Building Custom Rule C:/Users/clasa/OneDrive/Desktop/RevampGUI/Combination/CMakeLists.txt
+  NLAPID.cpp
+  SimulationRuntime.cpp
+  Generating Code...
+  combination_backend.vcxproj -> C:\Users\clasa\OneDrive\Desktop\RevampGUI\Combination\build\Release\combination_backend.lib
+  Building Custom Rule C:/Users/clasa/OneDrive/Desktop/RevampGUI/Combination/CMakeLists.txt
+  SimulationBindings.cpp
+     Creating library C:/Users/clasa/OneDrive/Desktop/RevampGUI/Combination/build/Release/CombinationBackend.lib and object C:/Users/clasa/OneDrive/Desktop/RevampGUI/Combination/build/Release/CombinationBackend.exp
+  Generating code
+  Finished generating code
+  CombinationBackend.vcxproj -> C:\Users\clasa\OneDrive\Desktop\RevampGUI\Combination\build\Release\CombinationBackend.cp313-win_amd64.pyd
+  Building Custom Rule C:/Users/clasa/OneDrive/Desktop/RevampGUI/Combination/CMakeLists.txt
+  Canvas2D.cpp
+  ShaderProgram.cpp
+  StateGuard.cpp
+  RenderContext.cpp
+  FontManager.cpp
+  FontRasterizer.cpp
+  GlyphAtlas.cpp
+  TextLayout.cpp
+  TextRenderer.cpp
+  AlarmTimelineChart.cpp
+  BarChart.cpp
+  BulletChart.cpp
+  CstTrendModel.cpp
+  CstTrendPlot.cpp
+  HeatmapChart.cpp
+  HistogramChart.cpp
+  LineChart.cpp
+  ScatterPlot.cpp
+  SpectrumChart.cpp
+  StarPlot.cpp
+  Generating Code...
+  Compiling...
+  TickFormatter.cpp
+  TimeSeriesChart.cpp
+  MagneticFieldSpeedometer.cpp
+  FieldPlots.cpp
+  Generating Code...
+  glad.c
+  combination_graphics.vcxproj -> C:\Users\clasa\OneDrive\Desktop\RevampGUI\Combination\build\Release\combination_graphics.lib
+  Building Custom Rule C:/Users/clasa/OneDrive/Desktop/RevampGUI/Combination/CMakeLists.txt
+  ChartBindings.cpp
+     Creating library C:/Users/clasa/OneDrive/Desktop/RevampGUI/Combination/build/Release/CombinationCharts.lib and object C:/Users/clasa/OneDrive/Desktop/RevampGUI/Combination/build/Release/CombinationCharts.exp
+  Generating code
+  Finished generating code
+  CombinationCharts.vcxproj -> C:\Users\clasa\OneDrive\Desktop\RevampGUI\Combination\build\Release\CombinationCharts.cp313-win_amd64.pyd
+  Building Custom Rule C:/Users/clasa/OneDrive/Desktop/RevampGUI/Combination/CMakeLists.txt
+  CstTrendModelTest.cpp
+  CstTrendModelTest.vcxproj -> C:\Users\clasa\OneDrive\Desktop\RevampGUI\Combination\build\Release\CstTrendModelTest.exe
+  Building Custom Rule C:/Users/clasa/OneDrive/Desktop/RevampGUI/Combination/CMakeLists.txt
+  GraphicsBufferTest.cpp
+  GraphicsBufferTest.vcxproj -> C:\Users\clasa\OneDrive\Desktop\RevampGUI\Combination\build\Release\GraphicsBufferTest.exe
+  Building Custom Rule C:/Users/clasa/OneDrive/Desktop/RevampGUI/Combination/CMakeLists.txt
+  TextLayoutTest.cpp
+  TextLayoutTest.vcxproj -> C:\Users\clasa\OneDrive\Desktop\RevampGUI\Combination\build\Release\TextLayoutTest.exe
+  Building Custom Rule C:/Users/clasa/OneDrive/Desktop/RevampGUI/Combination/CMakeLists.txt

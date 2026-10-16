@@ -1,0 +1,8 @@
+# Integrated CST launcher, simulation and native graphs. Python 3.13 (64-bit).
+# Versions follow the checked-in RI baseline; one Qt binding only.
+PySide6==6.11.1
+pybind11==3.0.4
+openpyxl==3.1.5
+numpy==2.5.1
+pandas==3.0.5
+matplotlib==3.11.1

@@ -1,0 +1,5 @@
+# Optional BO/ML dependencies from RI; not required to run native charts.
+-r requirements-backend.txt
+torch==2.13.0
+botorch==0.18.1
+gpytorch==1.15.2

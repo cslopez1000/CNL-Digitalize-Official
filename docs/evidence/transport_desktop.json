@@ -1,0 +1,20 @@
+{
+  "visible_charts": 10,
+  "initialized_charts": 10,
+  "errors": [],
+  "samples": 12,
+  "magnetic": {
+    "charts": 6,
+    "initialized": 6,
+    "errors": [],
+    "samples": 97
+  },
+  "source": {
+    "charts": 11,
+    "initialized": 11,
+    "errors": [],
+    "samples": 24
+  },
+  "failures": [],
+  "status": "passed"
+}

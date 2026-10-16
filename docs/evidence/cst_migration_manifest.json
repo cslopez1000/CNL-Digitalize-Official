@@ -1,0 +1,234 @@
+[
+  {
+    "source_project": "CST",
+    "source": "MagneticFieldControllerWindow.py",
+    "destination": "python/app/controls/cst/MagneticFieldControllerWindow.py",
+    "source_sha256": "0fd0520c4faeb50942438ccf5032368be7ab120b4a766f45e65032e8cfb0b42d",
+    "destination_sha256": "7d5d5bc02c59cdb53743bc290c6f7d7b912fd67a200afef6e4491b0e699897d5",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "controller_context.py",
+    "destination": "python/app/controls/cst/controller_context.py",
+    "source_sha256": "9e91f55adc266bae23d9d3adfd26734aa420ece4596e31d97888e1159e40a2c0",
+    "destination_sha256": "8fa746ab71529db59a03a0bac43c6f63a35a50c680c615ad19eff9f878d6ea02",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "controller_theme.py",
+    "destination": "python/app/controls/cst/controller_theme.py",
+    "source_sha256": "55bfe6d0c97282476fa15066c7d6042440c1181612a0e988a0820e9562187800",
+    "destination_sha256": "fd40ead137e1ea26c5388f8ea58f09135e3e9d7a51dca04774d34b776f7d265a",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "manual_control_tab.py",
+    "destination": "python/app/controls/cst/manual_control_tab.py",
+    "source_sha256": "d83f093978c0c8f93fd9f896bde5a76f74f4d561da071ba1971c7de38102f817",
+    "destination_sha256": "2093eb9f19b02454fe0591c79bd78248d07cbbbcf5a2c79ecae2da9eb90b0943",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "sequence_control_tab.py",
+    "destination": "python/app/controls/cst/sequence_control_tab.py",
+    "source_sha256": "44d1ca2c369c7a00271e1cc343d2560c58d7757551f75a0991b90b1b0cba5278",
+    "destination_sha256": "3b25b1eab640e5c582ef98fe770e05f2f66e7d42ddad3aeacd7e76dfd54d9b2e",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "multi_tc_sequence_tab.py",
+    "destination": "python/app/controls/cst/multi_tc_sequence_tab.py",
+    "source_sha256": "386d387518f662417216207b12111bf6387a65818114cf966bdf23088d126e85",
+    "destination_sha256": "db19c1952c8122aa82a59e973b89863f33d0aa47cbcfcdf50300e4d4067f3647",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "pid_ga_control_tab.py",
+    "destination": "python/app/controls/cst/pid_ga_control_tab.py",
+    "source_sha256": "c14e363ba10af2336c4d2666cea60b58de0bad306787241523e9b7f5aec4cea3",
+    "destination_sha256": "1f7b1de317a3f15ba99159322445ff9b9bd7ebdc869235d90fd49b0f07819f4b",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "beam_range.py",
+    "destination": "source/Python/Services/beam_range.py",
+    "source_sha256": "964ba21c15cdd650ceea7d408bc7e075c282fc35d706f20188829198579cad44",
+    "destination_sha256": "f9af66d7d640ce86bedef09e2e198a3c721a218741620f22353e39697904af39",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "beam_cal.py",
+    "destination": "source/Python/Services/beam_cal.py",
+    "source_sha256": "3501240031d576ba981d20920e2d53c609149786ddda9a8162e5cdfac7db9209",
+    "destination_sha256": "3501240031d576ba981d20920e2d53c609149786ddda9a8162e5cdfac7db9209",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "scaling.py",
+    "destination": "source/Python/Services/scaling.py",
+    "source_sha256": "6f5c2aae8d6b6c87cc19670f07095e37b0ec82ee1bb1c6ef78b57cabcdf0517a",
+    "destination_sha256": "6f5c2aae8d6b6c87cc19670f07095e37b0ec82ee1bb1c6ef78b57cabcdf0517a",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "app_settings.py",
+    "destination": "source/Python/Services/app_settings.py",
+    "source_sha256": "cba42bbb92c2bafa7fcf225a756826048a195c96d92baf0674e5b894c38f685d",
+    "destination_sha256": "cba42bbb92c2bafa7fcf225a756826048a195c96d92baf0674e5b894c38f685d",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "pid_beam_buffer.py",
+    "destination": "source/Python/Control/pid_beam_buffer.py",
+    "source_sha256": "7cd3499628510cc4517904c555b89d97fcf9a26b35e9c8b68b9195ffe4ba5981",
+    "destination_sha256": "e0cb83e5832c3d0b62ae803531fed8d08e38ace667a9f5555fb98d1fa94ec113",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "pid_decision_log.py",
+    "destination": "source/Python/Data/pid_decision_log.py",
+    "source_sha256": "3dccf55f28a2aebd12921a0e9c90d3e62508cec8e77ce3ba6f7d675e22c773c5",
+    "destination_sha256": "8a297706c0ca560cc4bd02a06d3a9f0ffa6165df38f10a1477075977971967be",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "sqlite_logger.py",
+    "destination": "source/Python/Data/cst_schema.py",
+    "source_sha256": "c895c2f954c6017af88df5e9a06e08293db7935e8843f1830b81301cefba337b",
+    "destination_sha256": "c895c2f954c6017af88df5e9a06e08293db7935e8843f1830b81301cefba337b",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "ga_pid_tuner.py",
+    "destination": "source/Python/Optimization/cst_ga.py",
+    "source_sha256": "a4f38b489270d7e828a9a4b8d70bb968d808e42abfdab52dafcbaa5afa7fa316",
+    "destination_sha256": "bfeb5bd70fb0176cdfa4a94d972edc5339813d8b19f96c2c4cede8a8c58df4fb",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "ga_test_runner.py",
+    "destination": "source/Python/Automation/ga_evaluation.py",
+    "source_sha256": "2450ecb8f15f862a7d860979b9ba7303df0dec6bc87fec4e1a2e5d3bc999d96b",
+    "destination_sha256": "da2c4f4f1f234693732c55511916483d08e310fabae64cbc7e1a2f112b59f9d1",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "ga_recovery_manager.py",
+    "destination": "source/Python/Automation/ga_recovery.py",
+    "source_sha256": "01e00b781bb65843c3c95041ca8eea7af63c2fc934a6b67c9945f99dd83fa864",
+    "destination_sha256": "0987f50383d254047a2b478bf1a932388de843b76e7bd8fe5dd9b07b1e290221",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "pid_controller.py",
+    "destination": "source/Python/Control/cst_pid_reference.py",
+    "source_sha256": "5346c20f3a6e69511a150e3de03a0a789e182cbe52ecaf0b706ed6be8e9ad901",
+    "destination_sha256": "196c9c06f4f65fa1314e226cd3ff7c8a3e95680367ad3e3f3021e486a5c0bb6f",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "BO/bo_control_tab.py",
+    "destination": "python/app/controls/cst/bo/bo_control_tab.py",
+    "source_sha256": "04bacf96de4c44e7b287e183df7d2df1ce4ee791770c104bff021520be974000",
+    "destination_sha256": "4a58ab46b47552583defa175030db3075b493824f48e03af463182cb6e47a423",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "BO/bo_pid_adapter.py",
+    "destination": "python/app/controls/cst/bo/bo_pid_adapter.py",
+    "source_sha256": "17cb4991955093790e4ed755f54aab0add75d3f48190a50803b17d0f61a7d1bc",
+    "destination_sha256": "3907c54cb77547911be16732180566088b5fb96258c3a43b7dae829122a0353c",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "BO/bo_trial_runner.py",
+    "destination": "python/app/controls/cst/bo/bo_trial_runner.py",
+    "source_sha256": "e94556209d454277eccef558eca39599155651b0311e45c77690f66a82e9795f",
+    "destination_sha256": "a953d6d00e2761d351b8b17b63ca661a57bc973e23e4d700e5b72865250c597e",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "BO/__init__.py",
+    "destination": "python/app/controls/cst/bo/__init__.py",
+    "source_sha256": "577cdda7ce0e36122ac88cb2d9dc5e6bc6cf327cf937ef339de270b1dd208d00",
+    "destination_sha256": "887b6ef046bddaf9f920ee6341495e587a49c00fe8bee90562fd476216f07c87",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "BO/optimization/acquisition.py",
+    "destination": "source/Python/Optimization/bo/acquisition.py",
+    "source_sha256": "4fc75ad0a38b7e4169c59aaaf5b1f4a18f9f601a781a7f2a516abb031f446fc6",
+    "destination_sha256": "4fc75ad0a38b7e4169c59aaaf5b1f4a18f9f601a781a7f2a516abb031f446fc6",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "BO/optimization/bayesian_optimizer.py",
+    "destination": "source/Python/Optimization/bo/bayesian_optimizer.py",
+    "source_sha256": "745d51b856f19dca81f7393cd80018843d663c4b75fba60032c41b0a64dc11dc",
+    "destination_sha256": "43de70022fc5372401f8e02fc9d48fd9dd0225d24ee9669832872b46691e965a",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "BO/optimization/observations.py",
+    "destination": "source/Python/Optimization/bo/observations.py",
+    "source_sha256": "5f2ff4094de29e70261cf96beeea9d5106b1288701d6453f5a6617d68f96e7f1",
+    "destination_sha256": "95d6332f3af7a862bbcaacd77bbc0705e764bca1437f65848628629c312aa372",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "BO/optimization/parameter_space.py",
+    "destination": "source/Python/Optimization/bo/parameter_space.py",
+    "source_sha256": "8463813b00bfecd9e4d8e6036a88f2d26426b3769dee7c525198f6557c29caf3",
+    "destination_sha256": "8463813b00bfecd9e4d8e6036a88f2d26426b3769dee7c525198f6557c29caf3",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "BO/optimization/surrogate_model.py",
+    "destination": "source/Python/Optimization/bo/surrogate_model.py",
+    "source_sha256": "670c83d9acc35221ca30e8182c4e0fc1119c8a34987eb79a7d83ef938e270e30",
+    "destination_sha256": "670c83d9acc35221ca30e8182c4e0fc1119c8a34987eb79a7d83ef938e270e30",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "BO/optimization/training.py",
+    "destination": "source/Python/Optimization/bo/training.py",
+    "source_sha256": "7dd555af7b21c2aaf52125ca8b6745158d1da4d07d8eb1b9bdddfac68b536918",
+    "destination_sha256": "89b864ee9fad2ac2c552cb92c5fadd75efa407a977b29623dd1751458494ae4c",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  },
+  {
+    "source_project": "CST",
+    "source": "BO/optimization/__init__.py",
+    "destination": "source/Python/Optimization/bo/__init__.py",
+    "source_sha256": "e26f8c7999cd869b2b9c19615fa6c5216d18b9c3825741f21a4441341caa9c03",
+    "destination_sha256": "b5e4f84a159440f67539ea488cc044013830578af0705fafcd6c0075bd38df5d",
+    "changes": "Qt binding/package imports; native trend alias and runtime paths where applicable"
+  }
+]

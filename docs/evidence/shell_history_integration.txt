@@ -1,0 +1,7 @@
+[BeamCal] AUTO -> MANUAL idx=1 (U64 nibble=2)
+[BeamCal] AUTO -> MANUAL idx=0 (U64 nibble=1)
+..........
+----------------------------------------------------------------------
+Ran 10 tests in 3.801s
+
+OK

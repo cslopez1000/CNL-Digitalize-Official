@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "gl_version": "4.6.0 - Build 32.0.101.7088",
+  "mean_render_submit_ms_including_first_frame": 9.271559998160228,
+  "renders": 20,
+  "host_line_width_restored": 1.0,
+  "non_background_probe_count": 3791,
+  "scope": "native CST controller and monitoring render/state smoke; screenshot comparison is manual, not full-app visual parity"
+}

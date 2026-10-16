@@ -1,0 +1,16 @@
+test_bounds_checked_before_trial (migrated_bo_reference_tests.AdapterTests.test_bounds_checked_before_trial) ... ok
+test_duplicate_result_rejected (migrated_bo_reference_tests.AdapterTests.test_duplicate_result_rejected) ... ok
+test_invalid_trial_excluded_and_stops (migrated_bo_reference_tests.AdapterTests.test_invalid_trial_excluded_and_stops) ... ok
+test_proposal_failure_propagates (migrated_bo_reference_tests.AdapterTests.test_proposal_failure_propagates) ... ok
+test_seed_score_worker_proposal_and_budget (migrated_bo_reference_tests.AdapterTests.test_seed_score_worker_proposal_and_budget) ... ok
+test_stable_interval_required (migrated_bo_reference_tests.RecoveryTests.test_stable_interval_required) ... ok
+test_stale_feedback_resets_interval_and_times_out (migrated_bo_reference_tests.RecoveryTests.test_stale_feedback_resets_interval_and_times_out) ... ok
+test_budget_completion_waits_for_recovery (migrated_bo_reference_tests.SchedulerTests.test_budget_completion_waits_for_recovery) ... ok
+test_pending_model_never_starts_pid (migrated_bo_reference_tests.SchedulerTests.test_pending_model_never_starts_pid) ... ok
+test_ready_model_runs_only_after_recovery (migrated_bo_reference_tests.SchedulerTests.test_ready_model_runs_only_after_recovery) ... ok
+test_worker_failure_ends_session_without_starting_pid (migrated_bo_reference_tests.SchedulerTests.test_worker_failure_ends_session_without_starting_pid) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.057s
+
+OK
